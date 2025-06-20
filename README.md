@@ -33,7 +33,7 @@ The project uses EC2 instances to emulate both IoT devices and edge nodes, integ
 4. **Security & Provisioning**  
    All communication is secured using X.509 certificates managed through AWS IoT, and IAM roles are used to securely enable token-based access to SQS.
 
-## ☁️ AWS Tech Stack (with Explanation)
+## ☁️ AWS Tech Stack
 
 | **Service**                  | **Role in the Project**                                                                                                                             |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
