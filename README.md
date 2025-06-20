@@ -1,5 +1,5 @@
 
-# Scalable Edge: Face Detection using AWS IoT Greengrass
+# Edge Computing-Based Face Recognition using AWS IOT
 
 ## 📘 Project Overview
 
